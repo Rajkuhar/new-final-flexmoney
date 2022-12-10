@@ -5,12 +5,12 @@ This assignment has simply used reactJS, CSS, Bootstrap, Javascript, Firebase Da
 ## Screenshots
 
 <hr>
-<img src='Screenshots/FlexMoneyTask1.png'>
-<img src='Screenshots/FlexMoneyTask2.png'>
+<img src='Screenshots/3.PNG'>
+<img src='Screenshots/4.PNG'>
 
 <hr>
-<img src='Screenshots/FlexMoneyTask3.jpg'>
-<img src='Screenshots/FlexMoneyTask4.jpg'>
+<img src='Screenshots/1.PNG'>
+<img src='Screenshots/2.PNG'>
 
 <hr>
 
