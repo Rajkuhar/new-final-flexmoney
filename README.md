@@ -20,7 +20,7 @@ This assignment has simply used reactJS, CSS, Bootstrap, Javascript, Firebase Da
 <hr>
 
 
-## The hosting link for the website is  <a href='https://flex-brown.vercel.app/'>here</a>
+## The hosting link for the website is  <a href='https://new-final-flexmoney.vercel.app/'>here</a>
 ## How to run this app
 
 In the project directory, you can run:
